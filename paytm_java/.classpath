@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/tomcat-servlet-api-7.0.6.jar/tomcat-servlet-api-7.0.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/javaee.jar/javaee.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/pg-checksum-1.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/paytm-checksum-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/PaytmChecksum (3).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swati Singhvi/Downloads/jsp-api-2.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
